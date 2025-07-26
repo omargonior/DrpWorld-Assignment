@@ -1,0 +1,789 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\services\\implmentation\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\services\\implmentation\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\attendancedto\\attendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\attendancedto\\attendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\attendancedto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\attendancedto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\filter\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\filter\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\services\\abstruct\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\services\\abstruct\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\services\\implmentation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\services\\implmentation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\services\\abstruct\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\services\\abstruct\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F98A90-E62E-4E41-9F53-EE582399643E}|dpWorld.Shared\\dpWorld.Shared.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.shared\\common\\pagination\\userqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F98A90-E62E-4E41-9F53-EE582399643E}|dpWorld.Shared\\dpWorld.Shared.csproj|solutionrelative:dpworld.shared\\common\\pagination\\userqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\repos\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\repos\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\userdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\userdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\seeding\\appseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\seeding\\appseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\repos\\abstruct\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\repos\\abstruct\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|solutionrelative:dpworld.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\repos\\abstruct\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\repos\\abstruct\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F98A90-E62E-4E41-9F53-EE582399643E}|dpWorld.Shared\\dpWorld.Shared.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.shared\\common\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F98A90-E62E-4E41-9F53-EE582399643E}|dpWorld.Shared\\dpWorld.Shared.csproj|solutionrelative:dpworld.shared\\common\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dpworld.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dpworld.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\dpworld.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\dpworld.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F98A90-E62E-4E41-9F53-EE582399643E}|dpWorld.Shared\\dpWorld.Shared.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.shared\\dpworld.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73F98A90-E62E-4E41-9F53-EE582399643E}|dpWorld.Shared\\dpWorld.Shared.csproj|solutionrelative:dpworld.shared\\dpworld.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.api\\dpworld.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B84BB69A-9A48-4E69-8A1F-5E3689C83F4D}|dpWorld.API\\dpWorld.API.csproj|solutionrelative:dpworld.api\\dpworld.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.data\\migrations\\20250723163049_dbmigrationv01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|solutionrelative:dpworld.data\\migrations\\20250723163049_dbmigrationv01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.data\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|solutionrelative:dpworld.data\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\auth\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\auth\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\logindto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\logindto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\tokendto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\tokendto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\mapping\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\mapping\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\dtos\\userdto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\dtos\\userdto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\repos\\implementation\\attendancerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\repos\\implementation\\attendancerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\const\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\const\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.data\\context\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|solutionrelative:dpworld.data\\context\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.data\\dpworld.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|solutionrelative:dpworld.data\\dpworld.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7FF3B6-E6DC-4DA3-8226-636B7E92B830}|dpWorld.Data\\dpWorld.Data.csproj|solutionrelative:dpworld.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42ED50-62F2-4293-9D3D-DF7189EAE197}|dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj|solutionrelative:dpworld.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|c:\\users\\dell\\desktop\\dpworld assisment\\backend\\dpworld\\dpworld.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D7CA1-03A0-48B4-AB42-9FF3802C60FD}|dpWorld.Application\\dpWorld.Application.csproj|solutionrelative:dpworld.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:823299570:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "dpWorld.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "dpWorld.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:12:07.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Program.cs",
+              "RelativeDocumentMoniker": "dpWorld.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Program.cs",
+              "RelativeToolTip": "dpWorld.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:40:50.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "dpWorld.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "dpWorld.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:13:39.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceSummaryDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceSummaryDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceSummaryDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:36:18.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Implmentation\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Services\\Implmentation\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Implmentation\\AttendanceService.cs",
+              "RelativeToolTip": "dpWorld.Application\\Services\\Implmentation\\AttendanceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:26:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\AttendanceDTO\\AttendanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:34:47.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileUploadOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Filter\\FileUploadOperationFilter.cs",
+              "RelativeDocumentMoniker": "dpWorld.API\\Filter\\FileUploadOperationFilter.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Filter\\FileUploadOperationFilter.cs",
+              "RelativeToolTip": "dpWorld.API\\Filter\\FileUploadOperationFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:36:00.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Implmentation\\UserService.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Services\\Implmentation\\UserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Implmentation\\UserService.cs",
+              "RelativeToolTip": "dpWorld.Application\\Services\\Implmentation\\UserService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:23:18.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Abstruct\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Services\\Abstruct\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Abstruct\\IAttendanceService.cs",
+              "RelativeToolTip": "dpWorld.Application\\Services\\Abstruct\\IAttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:25:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Abstruct\\IUserService.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Services\\Abstruct\\IUserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Services\\Abstruct\\IUserService.cs",
+              "RelativeToolTip": "dpWorld.Application\\Services\\Abstruct\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:23:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Shared\\Common\\Pagination\\UserQueryParameters.cs",
+              "RelativeDocumentMoniker": "dpWorld.Shared\\Common\\Pagination\\UserQueryParameters.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Shared\\Common\\Pagination\\UserQueryParameters.cs",
+              "RelativeToolTip": "dpWorld.Shared\\Common\\Pagination\\UserQueryParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:22:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Repos\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Repos\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:10:19.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\UserDTO\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\UserDTO\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\UserDTO\\CreateUserDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\UserDTO\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:29:41.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Seeding\\AppSeeder.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Seeding\\AppSeeder.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Seeding\\AppSeeder.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Seeding\\AppSeeder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:01:57.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Abstruct\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Repos\\Abstruct\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Abstruct\\IUserRepository.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Repos\\Abstruct\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:06:21.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "dpWorld.Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "dpWorld.Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:13:44.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Abstruct\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Repos\\Abstruct\\IAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Abstruct\\IAttendanceRepository.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Repos\\Abstruct\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:07:35.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\appsettings.json",
+              "RelativeDocumentMoniker": "dpWorld.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\appsettings.json",
+              "RelativeToolTip": "dpWorld.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T15:49:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "dpWorld.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "dpWorld.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T17:25:19.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "dpWorld.API\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "dpWorld.API\\Controllers\\AuthController .cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:10:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Shared\\Common\\Pagination\\PagedResult.cs",
+              "RelativeDocumentMoniker": "dpWorld.Shared\\Common\\Pagination\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Shared\\Common\\Pagination\\PagedResult.cs",
+              "RelativeToolTip": "dpWorld.Shared\\Common\\Pagination\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:22:23.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dpWorld.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\dpWorld.Application.csproj",
+              "RelativeDocumentMoniker": "dpWorld.Application\\dpWorld.Application.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\dpWorld.Application.csproj",
+              "RelativeToolTip": "dpWorld.Application\\dpWorld.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T14:26:21.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dpWorld.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj",
+              "RelativeToolTip": "dpWorld.Infrastructure\\dpWorld.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T15:16:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dpWorld.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Shared\\dpWorld.Shared.csproj",
+              "RelativeDocumentMoniker": "dpWorld.Shared\\dpWorld.Shared.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Shared\\dpWorld.Shared.csproj",
+              "RelativeToolTip": "dpWorld.Shared\\dpWorld.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T13:11:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dpWorld.API.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\dpWorld.API.csproj",
+              "RelativeDocumentMoniker": "dpWorld.API\\dpWorld.API.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.API\\dpWorld.API.csproj",
+              "RelativeToolTip": "dpWorld.API\\dpWorld.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T12:36:13.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\UserDTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\UserDTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\UserDTO\\UserDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\UserDTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:32:02.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dpWorld.Infrastructure.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.targets",
+              "RelativeToolTip": "dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-24T12:14:34.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dpWorld.Infrastructure.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.props",
+              "RelativeToolTip": "dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-24T12:13:58.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dpWorld.Infrastructure.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "dpWorld.Infrastructure\\obj\\dpWorld.Infrastructure.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T12:13:37.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250723163049_dbMigrationV01.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Migrations\\20250723163049_dbMigrationV01.cs",
+              "RelativeDocumentMoniker": "dpWorld.Data\\Migrations\\20250723163049_dbMigrationV01.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Migrations\\20250723163049_dbMigrationV01.cs",
+              "RelativeToolTip": "dpWorld.Data\\Migrations\\20250723163049_dbMigrationV01.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:30:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "dpWorld.Data\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Models\\Attendance.cs",
+              "RelativeToolTip": "dpWorld.Data\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:50:35.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:54:00.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Auth\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Auth\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Auth\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Auth\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:53:08.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Auth\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Auth\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Auth\\JwtSettings.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Auth\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:48:43.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\LoginDTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\LoginDTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\LoginDTO\\LoginDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\LoginDTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:46:05.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\TokenDTO\\TokenDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\TokenDTO\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\TokenDTO\\TokenDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\TokenDTO\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:44:40.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MappingProfile .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Mapping\\MappingProfile .cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Mapping\\MappingProfile .cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Mapping\\MappingProfile .cs",
+              "RelativeToolTip": "dpWorld.Application\\Mapping\\MappingProfile .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:39:45.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\UserDTO\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\DTOs\\UserDTO\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\DTOs\\UserDTO\\UpdateUserDto.cs",
+              "RelativeToolTip": "dpWorld.Application\\DTOs\\UserDTO\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:31:01.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:16:53.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AttendanceRepository .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Implementation\\AttendanceRepository .cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Repos\\Implementation\\AttendanceRepository .cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Repos\\Implementation\\AttendanceRepository .cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Repos\\Implementation\\AttendanceRepository .cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:11:59.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Const\\UserRoles.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Const\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Const\\UserRoles.cs",
+              "RelativeToolTip": "dpWorld.Application\\Const\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:59:08.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Context\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "dpWorld.Data\\Context\\AppDbContext .cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Context\\AppDbContext .cs",
+              "RelativeToolTip": "dpWorld.Data\\Context\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:53:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dpWorld.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\dpWorld.Data.csproj",
+              "RelativeDocumentMoniker": "dpWorld.Data\\dpWorld.Data.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\dpWorld.Data.csproj",
+              "RelativeToolTip": "dpWorld.Data\\dpWorld.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T14:08:30.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "dpWorld.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "dpWorld.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:33:05.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "dpWorld.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Data\\Class1.cs",
+              "RelativeToolTip": "dpWorld.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:32:30.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "dpWorld.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DpWorld Assisment\\backend\\dpWorld\\dpWorld.Application\\Class1.cs",
+              "RelativeToolTip": "dpWorld.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:31:45.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

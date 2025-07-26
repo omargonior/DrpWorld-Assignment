@@ -1,0 +1,6 @@
+@dpWorld.API_HostAddress = http://localhost:5079
+
+GET {{dpWorld.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

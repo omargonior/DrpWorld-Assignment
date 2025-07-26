@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XAp7x5awtyyNLqHBrAsjhsf4IrAqeb9MFG3bf7Fpqxw=",
+  "Source": "dpWorld.API",
+  "BasePath": "_content/dpWorld.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
